@@ -31,17 +31,17 @@ const Header = () => {
                 </Link>
 
                 <div className="header-right">
-                    <a target='_blank' href="https://www.linkedin.com/in/nareshkumaralaria/">Linkedin</a>
+                    <a target='_blank' href="https://www.linkedin.com/in/manishmadan2882/">Linkedin</a>
                     <span>/</span>
-                    <a target='_blank' href="https://github.com/nareshkumaralaria">Github</a>
+                    <a target='_blank' href="https://github.com/manishmadan2882">Github</a>
                 </div>
 
                 <div className="header-right-icons">
-                    <a target='_blank' href="https://www.linkedin.com/in/nareshkumaralaria/">
+                    <a target='_blank' href="https://www.linkedin.com/in/manishmadan2882">
                         <img src="/Linkedin.svg" alt="" />
                     </a>
                     <span>/</span>
-                    <a target='_blank' href="https://github.com/nareshkumaralaria">
+                    <a target='_blank' href="https://github.com/manishmadan2882">
                         <img src="/Github.svg" alt="" />
                     </a>
                 </div>
